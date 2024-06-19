@@ -1,0 +1,15 @@
+C:\Users\FP2402386\source\repos\Listen\Listen\bin\Debug\net5.0\Listen.exe
+C:\Users\FP2402386\source\repos\Listen\Listen\bin\Debug\net5.0\Listen.deps.json
+C:\Users\FP2402386\source\repos\Listen\Listen\bin\Debug\net5.0\Listen.runtimeconfig.json
+C:\Users\FP2402386\source\repos\Listen\Listen\bin\Debug\net5.0\Listen.runtimeconfig.dev.json
+C:\Users\FP2402386\source\repos\Listen\Listen\bin\Debug\net5.0\Listen.dll
+C:\Users\FP2402386\source\repos\Listen\Listen\bin\Debug\net5.0\Listen.pdb
+C:\Users\FP2402386\source\repos\Listen\Listen\obj\Debug\net5.0\Listen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402386\source\repos\Listen\Listen\obj\Debug\net5.0\Listen.AssemblyInfoInputs.cache
+C:\Users\FP2402386\source\repos\Listen\Listen\obj\Debug\net5.0\Listen.AssemblyInfo.cs
+C:\Users\FP2402386\source\repos\Listen\Listen\obj\Debug\net5.0\Listen.csproj.CoreCompileInputs.cache
+C:\Users\FP2402386\source\repos\Listen\Listen\obj\Debug\net5.0\Listen.dll
+C:\Users\FP2402386\source\repos\Listen\Listen\obj\Debug\net5.0\refint\Listen.dll
+C:\Users\FP2402386\source\repos\Listen\Listen\obj\Debug\net5.0\Listen.pdb
+C:\Users\FP2402386\source\repos\Listen\Listen\obj\Debug\net5.0\Listen.genruntimeconfig.cache
+C:\Users\FP2402386\source\repos\Listen\Listen\obj\Debug\net5.0\ref\Listen.dll
